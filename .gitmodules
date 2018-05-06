@@ -1,0 +1,6 @@
+[submodule "credhub"]
+	path = credhub
+	url = https://github.com/cloudfoundry-incubator/credhub.git
+[submodule "credhub-acceptance-tests"]
+	path = credhub-acceptance-tests
+	url = https://github.com/cloudfoundry-incubator/credhub-acceptance-tests.git
